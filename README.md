@@ -14,7 +14,7 @@
 
 So, basically, we have to find where those rebels are hiding.
 
-We are given with `Challenge.pcap` dump presumably with some conversation hidden there. Let's examine it with wireshark:
+We are given with [Challenge.pcap](Challenge.pcap) dump presumably with some conversation hidden there. Let's examine it with wireshark:
 
 ![image](https://user-images.githubusercontent.com/102946319/161515949-75fc655f-6f15-47d7-b7b8-90f9ee679b20.png)
 
